@@ -1,5 +1,16 @@
+
+
+body{
+  text-align: center;
+}
+
+.board-container{
+  width: 40%;
+  margin: 1% auto;
+}
+
 #board {
-  background: #ccc;
+  background: #B22222;
   width: 300px; height: 300px;
 }
 #board .space {
